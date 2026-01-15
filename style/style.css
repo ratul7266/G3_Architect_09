@@ -122,9 +122,6 @@ main > section {
 .experience-content {
   max-width: 586px;
 }
-.experience-title {
-  padding: 0 92px 24px 21px;
-}
 .experience-card {
   gap: 20px;
   padding: 15px;
@@ -283,5 +280,11 @@ main > section {
   .footer-img {
     grid-template-columns: repeat(3, 1fr);
     gap: 50px;
+  }
+  .footer-text {
+    background-color: #fff4e7;
+    padding: 15px 20px;
+    font-size: 0.8rem;
+    text-align: center;
   }
 }
